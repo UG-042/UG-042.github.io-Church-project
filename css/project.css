@@ -1,0 +1,54 @@
+.navbar{
+  height: 60px;
+}
+.navbar-brand{
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  font-family: Arial, sans-serif;
+  color: black;
+  text-transform: uppercase;
+}
+.navbar-brand:hover {
+  color: #eaffea;
+  transition: 0.2s ease;
+}
+
+.navbar-nav{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.carousel-item{
+  height: 500px;
+}
+
+span{
+    width:100%;
+    float: left;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 25px;
+    font-weight: bolder;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: -1px 2px 2px black;
+}
+.uji{
+  box-shadow: 50px;
+  border-radius: 25px;
+  color: blue;
+  background-color: white;
+
+}
+.uji:hover{
+  box-shadow: 50px;
+  border-radius: 25px;
+  color: white;
+  background-color: blue;
+}
+.kl{
+  font-weight: bolder;
+  font-size: 25px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase;
+}
